@@ -36,7 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Be The Hero é um projeto que ONGs podem entrar heróis.
+O Be The Hero é um projeto que auxilia ONGs para encontrar financiadores (Heróis) que possam ajudar a salvar animais.
+
 
 ## 🤔 Como contribuir
 
