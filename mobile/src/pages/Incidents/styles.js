@@ -14,6 +14,12 @@ export default StyleSheet.create({
         alignItems: 'center',
     },
 
+    headerTheme: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+    },
+
     headerText: {
         fontSize: 15,
         color: '#737380'
@@ -21,6 +27,16 @@ export default StyleSheet.create({
 
     headerTextBold: {
         fontWeight: 'bold'
+    },
+
+    headerTheme: {
+        marginTop: 54,
+        marginLeft: 90,
+        position: 'absolute',
+        width: 24,
+        height: 24,
+        left: 327,
+        top: 64,
     },
 
     title: {
